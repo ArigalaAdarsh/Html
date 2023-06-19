@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>
+Attribute
+</title>
+</head>
+<body>
+
+<b> <tagname>Father</tagname> <br/></b>
+<i> Mother <br/></i>
+<u> Sister  <br/></u>
+<strike> Lover  <br/></strike>
+Grand mother<sup>love  <br/></sup>
+Grand father<sub>life<br/> </sub> 
+<del> Adarsh  <br/></del>
+<ins> god  <br/></ins>
+<big> Mother-in-law <br/></big>
+<small>Hemanth <br/></small>
+<tt>venky mama<br/> </tt> 
+<mark> Hymavathi madam<br/> </mark>
+  <strong> adarsh</strong><br/>
+ <em> adarsh</em><br/>
+shalini<hr/>
+<p>we use<abbr title="hai mowa">helo</abbr></p>
+
+<pre>
+hii raja friends
+how are you
+I am fine here
+what about you?
+</pre>
+</body>
+</html>
